@@ -1,0 +1,13 @@
+*{
+     margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-dark .navbar-nav .show>.nav-link {
+    color: #fff;
+    padding-left: 76px;
+}
+
+img.go {
+    width: 112%;
+}
